@@ -68,7 +68,9 @@ d-i passwd/username string user
 
 </pre>
 Para iniciar el build:
-<pre>/opt/packer/debian-10$ ../packer build --force -var-file=variables.json debian.json
-
+<pre>/opt/packer/debian-10$ ../packer build --force -var-file=variables.json debian.json.
 </pre>
+<img class=" aligncenter" src="packer-build.png" width="700" height="300" />
+
+
 Ahora podremos seguir el avance de la instalación con la consola de proxmox.
