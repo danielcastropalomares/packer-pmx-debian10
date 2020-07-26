@@ -68,6 +68,7 @@ d-i passwd/username string user
 
 </pre>
 Para iniciar el build:
+
 <img class=" aligncenter" src="packer-build.png" width="700" height="300" />
 
 
