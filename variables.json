@@ -1,0 +1,10 @@
+{
+  "proxmox_username": "root@pam",
+  "proxmox_password": "XXXXXXXXXXXXXX",
+  "var_proxmox_url": "https://192.168.0.222:8006/api2/json",
+  "var_ssh_password": "XXXXXXXXXXXXXX,
+  "var_ssh_username": "root",
+  "var_template_name": "debian-10-template",
+  "var_storage_pool": "local-lvm"
+}
+
